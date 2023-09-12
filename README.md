@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on finishing my Stats Data Science bachelor's degree.
+🌱 I’m currently learning API calls, integration with LLMs, and data ethics.
+
 <!--
 **alpal923/alpal923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on finishing my Stats Data Science bachelor degree.
-🌱 I’m currently learning API calls, integration with LLMs, and data ethics.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
