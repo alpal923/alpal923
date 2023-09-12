@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on finishing my Stats Data Science bachelor's degree.
+🔭 I’m currently working on finishing my Stats Data Science bachelor's degree. 
+
 🌱 I’m currently learning API calls, integration with LLMs, and data ethics.
 
 <!--
