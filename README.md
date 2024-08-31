@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on finishing my Stats Data Science bachelor's degree. 
+🔭 Recently graduated with my degree in Statistics: Data Science from Brigham Young University
 
-🌱 I’m currently learning API calls, integration with LLMs, and data ethics.
+🌱 Focusing on identifying issues before consumers have to call in with ML
 
 <!--
 **alpal923/alpal923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
