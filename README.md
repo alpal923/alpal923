@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Recently graduated with my degree in Statistics: Data Science from Brigham Young University
+🔭 Graduated with my degree in Statistics: Data Science from Brigham Young University
 
 🌱 Focusing on identifying issues before consumers have to call in with ML
 
