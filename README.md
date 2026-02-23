@@ -4,7 +4,7 @@
 
 🌱 Focusing on identifying issues before consumers have to call in with ML
 
-🐦‍⬛ Special interest in Viking history
+🐦‍⬛ Personal interest in Viking history
 
 <!--
 **alpal923/alpal923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
